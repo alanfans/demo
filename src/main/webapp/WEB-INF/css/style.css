@@ -144,7 +144,7 @@ Close icon used for modal dialog and other UI element close buttons
   width: 9px;
   height: 9px;
   background-repeat: no-repeat !important;
-  background-image: url("/SpringMVC3Demo/images/remove-icon-small.png") !important;
+  background-image: url("/demo/images/remove-icon-small.png") !important;
 }
 
 /***
@@ -801,7 +801,7 @@ Page content
   margin-top: 0px;   
   padding: 0px;
   background-color: #FaFaFa; 
-  background-image1: url(/SpringMVC3Demo/images/patterns/pattern1.png);
+  background-image1: url(/demo/images/patterns/pattern1.png);
   border-radius: 0 0 0 4px;
 }
 
@@ -1173,33 +1173,33 @@ Portlets
 
 .portlet > .portlet-title > .tools > a.remove {
   margin-bottom: 2px;
-  background-image:url(/SpringMVC3Demo/images/portlet-remove-icon.png);
+  background-image:url(/demo/images/portlet-remove-icon.png);
   background-repeat: no-repeat;
   width: 11px;
 }
 
 .portlet > .portlet-title > .tools > a.config {
   margin-bottom: 2px;
-  background-image:url(/SpringMVC3Demo/images/portlet-config-icon.png);
+  background-image:url(/demo/images/portlet-config-icon.png);
   background-repeat: no-repeat;
   width: 12px;
 }
 
 .portlet > .portlet-title > .tools > a.reload {
   margin-bottom: 2px;
-  background-image:url(/SpringMVC3Demo/images/portlet-reload-icon.png);
+  background-image:url(/demo/images/portlet-reload-icon.png);
   width: 13px;
 }
 
 .portlet > .portlet-title > .tools > a.expand {
   margin-bottom: 2px;
-  background-image:url(/SpringMVC3Demo/images/portlet-expand-icon.png);
+  background-image:url(/demo/images/portlet-expand-icon.png);
   width: 14px;
 }
 
 .portlet > .portlet-title > .tools > a.collapse {
   margin-bottom: 2px;
-  background-image:url(/SpringMVC3Demo/images/portlet-collapse-icon.png);
+  background-image:url(/demo/images/portlet-collapse-icon.png);
   width: 14px;
 }
 
@@ -1778,7 +1778,7 @@ Zoom icon overlay on images
 }
 
 .zoom .zoom-icon {
-  background-image:url("/SpringMVC3Demo/images/overlay-icon.png");
+  background-image:url("/demo/images/overlay-icon.png");
   background-color: #222;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -2776,36 +2776,36 @@ Social Icons(new in v1.2.2)
   opacity: 1;
 }
 
-.social-icons .amazon {background: url(/SpringMVC3Demo/images/social/amazon.png) no-repeat;}
-.social-icons .behance {background: url(/SpringMVC3Demo/images/social/behance.png) no-repeat;}
-.social-icons .blogger {background: url(/SpringMVC3Demo/images/social/blogger.png) no-repeat;}
-.social-icons .deviantart {background: url(/SpringMVC3Demo/images/social/deviantart.png) no-repeat;}
-.social-icons .dribbble {background: url(/SpringMVC3Demo/images/social/dribbble.png) no-repeat;}
-.social-icons .dropbox {background: url(/SpringMVC3Demo/images/social/dropbox.png) no-repeat;}
-.social-icons .evernote {background: url(/SpringMVC3Demo/images/social/evernote.png) no-repeat;}
-.social-icons .facebook {background: url(/SpringMVC3Demo/images/social/facebook.png) no-repeat;}
-.social-icons .forrst {background: url(/SpringMVC3Demo/images/social/forrst.png) no-repeat;}
-.social-icons .github {background: url(/SpringMVC3Demo/images/social/github.png) no-repeat;}
-.social-icons .googleplus {background: url(/SpringMVC3Demo/images/social/googleplus.png) no-repeat;}
-.social-icons .jolicloud {background: url(/SpringMVC3Demo/images/social/jolicloud.png) no-repeat;}
-.social-icons .last-fm {background: url(/SpringMVC3Demo/images/social/last-fm.png) no-repeat;}
-.social-icons .linkedin {background: url(/SpringMVC3Demo/images/social/linkedin.png) no-repeat;}
-.social-icons .picasa {background: url(/SpringMVC3Demo/images/social/picasa.png) no-repeat;}
-.social-icons .pintrest {background: url(/SpringMVC3Demo/images/social/pintrest.png) no-repeat;}
-.social-icons .rss {background: url(/SpringMVC3Demo/images/social/rss.png) no-repeat;}
-.social-icons .skype {background: url(/SpringMVC3Demo/images/social/skype.png) no-repeat;}
-.social-icons .spotify {background: url(/SpringMVC3Demo/images/social/spotify.png) no-repeat;}
-.social-icons .stumbleupon {background: url(/SpringMVC3Demo/images/social/stumbleupon.png) no-repeat;}
-.social-icons .tumblr {background: url(/SpringMVC3Demo/images/social/tumblr.png) no-repeat;}
-.social-icons .twitter {background: url(/SpringMVC3Demo/images/social/twitter.png) no-repeat;}
-.social-icons .vimeo {background: url(/SpringMVC3Demo/images/social/vimeo.png) no-repeat;}
-.social-icons .wordpress {background: url(/SpringMVC3Demo/images/social/wordpress.png) no-repeat;}
-.social-icons .xing {background: url(/SpringMVC3Demo/images/social/xing.png) no-repeat;}
-.social-icons .yahoo {background: url(/SpringMVC3Demo/images/social/yahoo.png) no-repeat;}
-.social-icons .youtube {background: url(/SpringMVC3Demo/images/social/youtube.png) no-repeat;}
-.social-icons .vk {background: url(/SpringMVC3Demo/images/social/vk.png) no-repeat;}
-.social-icons .instagram {background: url(/SpringMVC3Demo/images/social/instagram.png) no-repeat;}
-.social-icons .reddit {background: url(/SpringMVC3Demo/images/social/reddit.png) no-repeat;}
+.social-icons .amazon {background: url(/demo/images/social/amazon.png) no-repeat;}
+.social-icons .behance {background: url(/demo/images/social/behance.png) no-repeat;}
+.social-icons .blogger {background: url(/demo/images/social/blogger.png) no-repeat;}
+.social-icons .deviantart {background: url(/demo/images/social/deviantart.png) no-repeat;}
+.social-icons .dribbble {background: url(/demo/images/social/dribbble.png) no-repeat;}
+.social-icons .dropbox {background: url(/demo/images/social/dropbox.png) no-repeat;}
+.social-icons .evernote {background: url(/demo/images/social/evernote.png) no-repeat;}
+.social-icons .facebook {background: url(/demo/images/social/facebook.png) no-repeat;}
+.social-icons .forrst {background: url(/demo/images/social/forrst.png) no-repeat;}
+.social-icons .github {background: url(/demo/images/social/github.png) no-repeat;}
+.social-icons .googleplus {background: url(/demo/images/social/googleplus.png) no-repeat;}
+.social-icons .jolicloud {background: url(/demo/images/social/jolicloud.png) no-repeat;}
+.social-icons .last-fm {background: url(/demo/images/social/last-fm.png) no-repeat;}
+.social-icons .linkedin {background: url(/demo/images/social/linkedin.png) no-repeat;}
+.social-icons .picasa {background: url(/demo/images/social/picasa.png) no-repeat;}
+.social-icons .pintrest {background: url(/demo/images/social/pintrest.png) no-repeat;}
+.social-icons .rss {background: url(/demo/images/social/rss.png) no-repeat;}
+.social-icons .skype {background: url(/demo/images/social/skype.png) no-repeat;}
+.social-icons .spotify {background: url(/demo/images/social/spotify.png) no-repeat;}
+.social-icons .stumbleupon {background: url(/demo/images/social/stumbleupon.png) no-repeat;}
+.social-icons .tumblr {background: url(/demo/images/social/tumblr.png) no-repeat;}
+.social-icons .twitter {background: url(/demo/images/social/twitter.png) no-repeat;}
+.social-icons .vimeo {background: url(/demo/images/social/vimeo.png) no-repeat;}
+.social-icons .wordpress {background: url(/demo/images/social/wordpress.png) no-repeat;}
+.social-icons .xing {background: url(/demo/images/social/xing.png) no-repeat;}
+.social-icons .yahoo {background: url(/demo/images/social/yahoo.png) no-repeat;}
+.social-icons .youtube {background: url(/demo/images/social/youtube.png) no-repeat;}
+.social-icons .vk {background: url(/demo/images/social/vk.png) no-repeat;}
+.social-icons .instagram {background: url(/demo/images/social/instagram.png) no-repeat;}
+.social-icons .reddit {background: url(/demo/images/social/reddit.png) no-repeat;}
 
 /***
 Inline Social Icons
@@ -2824,36 +2824,36 @@ Inline Social Icons
   -webkit-transition: all 0.3s ease-in-out;
 }
 
-.social-icon.amazon {background: url(/SpringMVC3Demo/images/social/amazon.png) no-repeat;}
-.social-icon.behance {background: url(/SpringMVC3Demo/images/social/behance.png) no-repeat;}
-.social-icon.blogger {background: url(/SpringMVC3Demo/images/social/blogger.png) no-repeat;}
-.social-icon.deviantart {background: url(/SpringMVC3Demo/images/social/deviantart.png) no-repeat;}
-.social-icon.dribbble {background: url(/SpringMVC3Demo/images/social/dribbble.png) no-repeat;}
-.social-icon.dropbox {background: url(/SpringMVC3Demo/images/social/dropbox.png) no-repeat;}
-.social-icon.evernote {background: url(/SpringMVC3Demo/images/social/evernote.png) no-repeat;}
-.social-icon.facebook {background: url(/SpringMVC3Demo/images/social/facebook.png) no-repeat;}
-.social-icon.forrst {background: url(/SpringMVC3Demo/images/social/forrst.png) no-repeat;}
-.social-icon.github {background: url(/SpringMVC3Demo/images/social/github.png) no-repeat;}
-.social-icon.googleplus {background: url(/SpringMVC3Demo/images/social/googleplus.png) no-repeat;}
-.social-icon.jolicloud {background: url(/SpringMVC3Demo/images/social/jolicloud.png) no-repeat;}
-.social-icon.last-fm {background: url(/SpringMVC3Demo/images/social/last-fm.png) no-repeat;}
-.social-icon.linkedin {background: url(/SpringMVC3Demo/images/social/linkedin.png) no-repeat;}
-.social-icon.picasa {background: url(/SpringMVC3Demo/images/social/picasa.png) no-repeat;}
-.social-icon.pintrest {background: url(/SpringMVC3Demo/images/social/pintrest.png) no-repeat;}
-.social-icon.rss {background: url(/SpringMVC3Demo/images/social/rss.png) no-repeat;}
-.social-icon.skype {background: url(/SpringMVC3Demo/images/social/skype.png) no-repeat;}
-.social-icon.spotify {background: url(/SpringMVC3Demo/images/social/spotify.png) no-repeat;}
-.social-icon.stumbleupon {background: url(/SpringMVC3Demo/images/social/stumbleupon.png) no-repeat;}
-.social-icon.tumblr {background: url(/SpringMVC3Demo/images/social/tumblr.png) no-repeat;}
-.social-icon.twitter {background: url(/SpringMVC3Demo/images/social/twitter.png) no-repeat;}
-.social-icon.vimeo {background: url(/SpringMVC3Demo/images/social/vimeo.png) no-repeat;}
-.social-icon.wordpress {background: url(/SpringMVC3Demo/images/social/wordpress.png) no-repeat;}
-.social-icon.xing {background: url(/SpringMVC3Demo/images/social/xing.png) no-repeat;}
-.social-icon.yahoo {background: url(/SpringMVC3Demo/images/social/yahoo.png) no-repeat;}
-.social-icon.youtube {background: url(/SpringMVC3Demo/images/social/youtube.png) no-repeat;}
-.social-icon.vk {background: url(/SpringMVC3Demo/images/social/vk.png) no-repeat;}
-.social-icon.instagram {background: url(/SpringMVC3Demo/images/social/instagram.png) no-repeat;}
-.social-icon.reddit {background: url(/SpringMVC3Demo/images/social/reddit.png) no-repeat;}
+.social-icon.amazon {background: url(/demo/images/social/amazon.png) no-repeat;}
+.social-icon.behance {background: url(/demo/images/social/behance.png) no-repeat;}
+.social-icon.blogger {background: url(/demo/images/social/blogger.png) no-repeat;}
+.social-icon.deviantart {background: url(/demo/images/social/deviantart.png) no-repeat;}
+.social-icon.dribbble {background: url(/demo/images/social/dribbble.png) no-repeat;}
+.social-icon.dropbox {background: url(/demo/images/social/dropbox.png) no-repeat;}
+.social-icon.evernote {background: url(/demo/images/social/evernote.png) no-repeat;}
+.social-icon.facebook {background: url(/demo/images/social/facebook.png) no-repeat;}
+.social-icon.forrst {background: url(/demo/images/social/forrst.png) no-repeat;}
+.social-icon.github {background: url(/demo/images/social/github.png) no-repeat;}
+.social-icon.googleplus {background: url(/demo/images/social/googleplus.png) no-repeat;}
+.social-icon.jolicloud {background: url(/demo/images/social/jolicloud.png) no-repeat;}
+.social-icon.last-fm {background: url(/demo/images/social/last-fm.png) no-repeat;}
+.social-icon.linkedin {background: url(/demo/images/social/linkedin.png) no-repeat;}
+.social-icon.picasa {background: url(/demo/images/social/picasa.png) no-repeat;}
+.social-icon.pintrest {background: url(/demo/images/social/pintrest.png) no-repeat;}
+.social-icon.rss {background: url(/demo/images/social/rss.png) no-repeat;}
+.social-icon.skype {background: url(/demo/images/social/skype.png) no-repeat;}
+.social-icon.spotify {background: url(/demo/images/social/spotify.png) no-repeat;}
+.social-icon.stumbleupon {background: url(/demo/images/social/stumbleupon.png) no-repeat;}
+.social-icon.tumblr {background: url(/demo/images/social/tumblr.png) no-repeat;}
+.social-icon.twitter {background: url(/demo/images/social/twitter.png) no-repeat;}
+.social-icon.vimeo {background: url(/demo/images/social/vimeo.png) no-repeat;}
+.social-icon.wordpress {background: url(/demo/images/social/wordpress.png) no-repeat;}
+.social-icon.xing {background: url(/demo/images/social/xing.png) no-repeat;}
+.social-icon.yahoo {background: url(/demo/images/social/yahoo.png) no-repeat;}
+.social-icon.youtube {background: url(/demo/images/social/youtube.png) no-repeat;}
+.social-icon.vk {background: url(/demo/images/social/vk.png) no-repeat;}
+.social-icon.instagram {background: url(/demo/images/social/instagram.png) no-repeat;}
+.social-icon.reddit {background: url(/demo/images/social/reddit.png) no-repeat;}
 
 .social-icon:hover {
   background-position:0 -38px;

@@ -12,5 +12,7 @@
 	<script src="<c:url value='/plugins/jquery-slimscroll/jquery.slimscroll.min.js'/>" type="text/javascript"></script>
 	<script src="<c:url value='/plugins/jquery.blockui.min.js'/>" type="text/javascript"></script>  
 	<script src="<c:url value='/plugins/jquery.cookie.min.js'/>" type="text/javascript"></script>
-	<script src="<c:url value='/plugins/uniform/jquery.uniform.min.js'/>" type="text/javascript" ></script>
+	<script src="<c:url value='/plugins/uniform/jquery.uniform.min.js'/>" type="text/javascript"></script>
+	<script src="<c:url value='/plugins/moment.min.js'/>" type="text/javascript"></script>
+	<script src="<c:url value='/plugins/bootstrap-daterangepicker/daterangepicker.js'/>" type="text/javascript"></script>
 	<!-- END CORE PLUGINS -->
